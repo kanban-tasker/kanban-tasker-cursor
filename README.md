@@ -10,6 +10,8 @@ Try asking Cursor to list your workspaces. If you selected **Create tasks**, try
 
 To use the configuration manually, copy the server entry from [mcp.json](mcp.json) into the `mcpServers` object in your Cursor MCP settings. The client ID identifies Cursor Desktop and can be shared. Review and disconnect your grants in **Kanban Tasker → Account → Connected apps**.
 
-## Distribution
+## Requirements and support
 
-Private preview for the one-screen consent release. Marketplace publication is pending owner approval.
+A Kanban Tasker account with a cloud workspace is required. MCP is available on Free and Personal plans, subject to each plan's limits. Select only the workspaces and actions you want Cursor to access.
+
+Visit [Kanban Tasker](https://kanbantasker.app/) for the app, [support](https://kanbantasker.app/support) for help, and our [privacy policy](https://kanbantasker.app/privacy) and [terms](https://kanbantasker.app/terms) for information about the service.
