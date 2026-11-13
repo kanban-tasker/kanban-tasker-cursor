@@ -1,0 +1,8 @@
+{
+  "name": "kanban-tasker",
+  "displayName": "Kanban Tasker",
+  "version": "0.1.0",
+  "description": "Connect Cursor to your Kanban Tasker workspaces to read boards and manage tasks with the permissions you choose.",
+  "author": { "name": "Kanban Tasker" },
+  "logo": "assets/kanban-tasker.png"
+}

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kanban-tasker": {
+      "url": "https://api.kanbantasker.app/mcp",
+      "auth": {
+        "CLIENT_ID": "kanban-cursor-production",
+        "scopes": ["kanban.connect", "offline_access"]
+      }
+    }
+  }
+}
